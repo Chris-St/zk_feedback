@@ -1,0 +1,24 @@
+# Environment variables
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Hardhat artifacts and cache
+artifacts/
+cache/
+coverage/
+
+# Compiled contracts
+build/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Optional IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
